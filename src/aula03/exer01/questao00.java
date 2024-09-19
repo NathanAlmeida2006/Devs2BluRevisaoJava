@@ -40,5 +40,7 @@ public class questao00 {
             default:
                 System.out.println("Digite um valor válido.");
         }
+
+        sc.close();
     }
 }

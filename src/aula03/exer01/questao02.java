@@ -27,5 +27,7 @@ public class questao02 {
             System.out.println("Não pode nadar!");
 
         }
+
+        sc.close();
     }
 }

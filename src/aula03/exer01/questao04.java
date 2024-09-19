@@ -14,6 +14,7 @@ public class questao04 {
         double n2 = sc.nextDouble();
 
         System.out.println(calcular(op, n1, n2));
+        sc.close();
     }
 
     public static double calcular(String op, double n1, double n2) {

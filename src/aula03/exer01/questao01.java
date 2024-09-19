@@ -14,5 +14,7 @@ public class questao01 {
         } else {
             System.out.println(x + " é ímpar!");
         }
+
+        sc.close();
     }
 }
